@@ -1,0 +1,15 @@
+{
+  "job_name": "ondemand/sys/dashboard/sys/code-server",
+  "workdir": "/u/ezhao1/ondemand/data/sys/dashboard/batch_connect/sys/code-server/output/c4b97cfe-3252-45d9-9f38-5c6dc9866f9d",
+  "output_path": "/u/ezhao1/ondemand/data/sys/dashboard/batch_connect/sys/code-server/output/c4b97cfe-3252-45d9-9f38-5c6dc9866f9d/output.log",
+  "shell_path": "/bin/bash",
+  "accounting_id": "ezhao",
+  "native": [
+    "-N 1",
+    "-n",
+    "1",
+    "-t",
+    ""
+  ],
+  "queue_name": "cpu-interactive"
+}
